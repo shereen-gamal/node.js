@@ -1,0 +1,11 @@
+GET     /users
+GET     /users/:id
+POST    /users
+DELETE  /users/:id
+PUT     /users/:id
+
+(CRUD)
+create
+retrieve
+update
+delete
